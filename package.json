@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "JavaScript development environment",
   "scripts": {
-    "prestart": "babel-node start-message.js",
     "start": "npm-run-all --parallel security-check open:src",
     "open:src": "babel-node server.js",
     "security-check": "nsp check",
