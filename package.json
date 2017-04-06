@@ -5,6 +5,7 @@
   "scripts": {
     "start": "npm-run-all --parallel security-check open:src",
     "open:src": "babel-node server.js",
+    "lint": "esw webpack.config.* src server.js --color",
     "security-check": "nsp check",
     "localtunnel": "lt --port 3000",
     "share": "npm-run-all --parallel open:src localtunnel"
