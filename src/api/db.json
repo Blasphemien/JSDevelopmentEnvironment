@@ -1,1 +1,16 @@
-{"users":[{"id":66656617,"firstName":"Javonte","lastName":"Breitenberg","email":"Jewell_Emmerich@hotmail.com"},{"id":20917551,"firstName":"Keon","lastName":"Steuber","email":"Libbie_Parisian78@hotmail.com"},{"id":17332782,"firstName":"Wiley","lastName":"Daugherty","email":"Adela5@gmail.com"}]}
+{
+  "users": [
+    {
+      "id": 20917551,
+      "firstName": "Keon",
+      "lastName": "Steuber",
+      "email": "Libbie_Parisian78@hotmail.com"
+    },
+    {
+      "id": 17332782,
+      "firstName": "Wiley",
+      "lastName": "Daugherty",
+      "email": "Adela5@gmail.com"
+    }
+  ]
+}
