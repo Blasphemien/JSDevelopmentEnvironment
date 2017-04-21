@@ -10,7 +10,7 @@
 /* eslint-disable no-console */
 
 import jsf from 'json-schema-faker';
-import {schema} from './mockDataSchema';
+import {schema} from './mock.data.schema';
 import fs from 'fs';
 import chalk from 'chalk';
 
