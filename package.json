@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "JavaScript development environment",
   "scripts": {
-    "start": "npm-run-all --parallel security-check open:src lint:watch test:watch",
+    "start": "npm-run-all --parallel security-check open:src lint:watch test:watch start-mockapi",
     "open:src": "babel-node server.js",
     "lint": "esw webpack.config.* src server.js --color",
     "lint:watch": "npm run lint -- --watch",
