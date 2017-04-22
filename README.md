@@ -7,9 +7,15 @@ A custom boilerplate app to use as a starter kit when working with node and expr
 
 ## Features
  Node package secuity checks (Node Security Platform)
+ 
  Unit tests (Mocha and Chai)
+ 
  ES6 transpilation (Babel)
+ 
  Module bundling (Webpack)
+ 
  Linting (ESLint)
+ 
  Continous intergration (Travis)
+ 
  Mock HTTP (JSON Schema Faker (faker.js, chance.js, randexp.js))
